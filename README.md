@@ -452,8 +452,12 @@ Built with Tailwind CSS using a mobile-first approach:
 ## Author
 
 **Balakamatchi S**
+
 Computer Science and Engineering Student, CSI College of Engineering, Ketti
 
 Full Stack Developer (MERN) — Naan Mudhalvan MERN Stack Certified
+
+
+---
 
 Built as a portfolio project to demonstrate full-stack MERN development, third-party AI integration (Google Gemini), cloud media storage (Cloudinary), and responsive, animated UI design.
