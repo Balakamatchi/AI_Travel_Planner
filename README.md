@@ -174,18 +174,50 @@ ai-travel-planner/
 
 ## Screenshots
 
+<table>
+  <tr>
+    <th>Landing Page</th>
+    <th>Dashboard</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/landing.jpeg" width="450">
+    </td>
+    <td>
+      <img src="screenshots/dashboard.jpeg" width="450">
+    </td>
+  </tr>
+</table>
 
-| Landing Page | Dashboard |
-|---|---|
-| `![Landing](./screenshots/landing.jpeg)` | `![Dashboard](./screenshots/dashboard.jpeg)` |
+<table>
+  <tr>
+    <th>Budget Tracker</th>
+    <th>Trip Details</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/budget.jpeg" width="450">
+    </td>
+    <td>
+      <img src="screenshots/trip-details.jpeg" width="450">
+    </td>
+  </tr>
+</table>
 
-|  Budget Tracker | Trip Details |
-|---|---|
-| `![Budget](./screenshots/budget.jpeg)` | `![Trip Details](./screenshots/trip-details.jpeg)` |
-
-| Travel Journal | Dark Mode |
-|---|---|
-| `![Journal](./screenshots/journal.jpeg)` | `![Dark Mode](./screenshots/dark-mode.jpeg)` |
+<table>
+  <tr>
+    <th>Travel Journal</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/journal.jpeg" width="450">
+    </td>
+    <td>
+      <img src="screenshots/dark-mode.jpeg" width="450">
+    </td>
+  </tr>
+</table>
 
 ---
 
